@@ -1,0 +1,15 @@
+{
+  "name": "@aksarakan/example-nodejs",
+  "version": "0.0.0",
+  "description": "node example for aksarakan api",
+  "main": "index.js",
+  "dependencies": {
+    "form-data": "^3.0.0",
+    "axios": "^0.21.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node example.js"
+  },
+  "license": "MIT"
+}
