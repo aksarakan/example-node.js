@@ -1,25 +1,25 @@
-# Nodejs Example API OCR KTP, NPWP
+# Contoh Python API OCR KTP, NPWP
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)][3]
 [![id](https://img.shields.io/badge/lang-id-red.svg)][4]
 
-This Nodejs example for using API client for Aksarakan OCR API,
-Visit [aksarakan][1]. More information about the product and
+Contoh penggunaan API untuk Python pada Aksarakan OCR API,
+Kunjungi [aksarakan][1], Untuk informasi lebih lanjut mengenai produk dan API.
 
-see documentation at [aksarakan documentation][2] for more technical details.
+Dokumentasi teknis dapat dilihat di [aksarakan documentation][2].
 
 
-## Requirement
-- nodejs >= 12 (tested)
+## Kebutuhan
+- nodejs >= 12 (dites)
 - npm / yarn
 
-## Installation
-- Clone or download this repository
+## Installasi
+- Clone or unduh repository ini
 - Install Dependency
-- Change variable accordingly
-- Run example
+- sesuaikan variable
+- Jalankan contoh
 
-### Install Dependency
+### Menginstal Dependency
 npm
 ```
 npm i
@@ -28,11 +28,11 @@ yarn
 ```
 yarn insall
 ```
-### Change variable accordingly
-change variable {path}, {token}, {type} inside example.js accordingly
+### Sesuaikan variable
+Sesuaikan variable {path}, {token}, {type} dalam example.js
 
 ### Running example
-run following command
+jalankan command berikut
 ```
 node example.js
 ```
